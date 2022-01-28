@@ -1,1 +1,3 @@
 # Alcohol-Stock-Prices
+
+This is just a preliminary look at stock prices. I'm interested in comparing how alcohol use changed in the USA and UK during lockdown. Since it's only an initial look, I'm going to only use a very limited number of companies, but I appreciate that no real findings can be drawn from such a limited sample. I'm going to look at Stock Spirits Group plc from the UK, and from the USA I will look at The Boston Beer Company, Inc.and Diageo plc. The reason for using two companies from the USA is that it may be interesting to compare the two since the first is a brewer and the second is in the category 'Wineries & Distillers'.
